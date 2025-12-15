@@ -57,7 +57,7 @@
 
 | | |
 |:-:|:-:|
-| ![MT 1](mean_teacher-1.png) | ![MT 2](mean_teacher-2.png) |
+| ![MT 1](meantecher-1.png) | ![MT 2](meantecher-2.png) |
 | Sample 1 | Sample 2 |
 
 </div>
@@ -245,11 +245,3 @@ MIT License
 </div>
 ```
 
----
-
-If you want, I can also:
-
-* ✨ Shorten this for **conference submission**
-* 📘 Rewrite for **thesis / capstone report**
-* 🧪 Add **ablation study section**
-* 🧑‍🏫 Prepare **viva questions & answers** from this README
